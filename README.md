@@ -6,6 +6,10 @@ Native IOS Mobile app that connects to ANT+ enabled bluetooth, preferably [Wahoo
 Data stored in firebase using firebase analytics which is then sourced to tableau for visualization. Strava is priced at CDN $9.99, DIY app is priced at 500ml of  brain juice.
 
 Future Updates:
+
 Attach mini location sensor to  bike, that can be tracked in realtime on the app.
+
 Some sports analytics based on the data collected.
-Support more diverse set of bluetooth devices, target Bontrager
+
+Support more diverse set of bluetooth devices, target Bontrager(one Gallon brain juice required)
+
